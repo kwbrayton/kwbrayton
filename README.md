@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwbrayton
 - 👀 I’m interested in WordPress support and development
-- 🌱 I’m currently learning Divi
+- 🌱 I’m currently learning Divi, WooCommerce, and Shopify
 - 💞️ I’m looking to collaborate but still trying to figure out on what!
 - 📫 How to reach me https://www.linkedin.com/in/thekwb/
 
