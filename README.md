@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey there, nice to see you! :-)<br>
 
-### Ye Olde Man welcomes you with open arms. My name is Ken. I work with WooCommerce and Shopify. I live in the beautiful Willameete Valley in Oregon, USA. <img src="./united-states.png" width="13">
+### Allow me to welcome you with open arms. My name is Ken. I work with WooCommerce and Shopify. I live in the beautiful Willameete Valley in Oregon, USA. <img src="./united-states.png" width="13">
 
 ## 🛠️ Languages and Tools:
 
